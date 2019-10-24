@@ -1,0 +1,9 @@
+[submodule "lyaml/lyaml"]
+	path = lyaml/lyaml
+	url = https://github.com/gvvaughan/lyaml.git
+[submodule "lyaml/libyaml"]
+	path = lyaml/libyaml
+	url = https://github.com/yaml/libyaml.git
+[submodule "lyaml/luapower-lyaml"]
+	path = lyaml/luapower-lyaml
+	url = https://github.com/yasuoohno/luapower-lyaml.git
