@@ -37,3 +37,7 @@ libyaml:
 .PHONY: clean
 clean:
 	-/bin/rm -r ./$(TMPLIB) ./$(TMPINC) ./$(CMAKE_BUILD)
+
+.PHONY: update
+update:
+	git submodule update
